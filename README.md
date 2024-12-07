@@ -7,7 +7,6 @@ Este proyecto fue creado para aprender Spring Boot, conectarse a la API de ChatG
 
 ## Tecnologías Utilizadas
 - **Spring Boot**: Un framework para crear aplicaciones Java basadas en Spring.
-- **JUnit**: Un framework para realizar pruebas unitarias en Java.
 - **HTTPURLConnection**: Una clase de Java para manejar conexiones HTTP.
 
 ## Métodos Principales
