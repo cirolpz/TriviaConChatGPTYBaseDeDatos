@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/b95eb840-c418-4518-bda8-8e2d5ddf8355)
-```markdown
+
 # TriviaConChatGPTYBaseDeDatos
 
 ## Descripción
